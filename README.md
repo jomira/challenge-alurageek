@@ -36,8 +36,21 @@ Este es un proyecto de frontend desarrollado para el desafío de AluraGeek. La p
 │   └── data.js         # Conexión con la API
 ├── 📄 index.html       # Página principal
 └── 📄 README.md        # Documentación del proyecto
+```
 ---
+
+## 📖 Créditos
+
+Proyecto realizado como parte del curso de **Alura LATAM**.
+
 ---
+
 ## Autor
+
 ### Jomira Paitan.
+
+---
+
+## 📧 Contacto
+
 ### Linkedin: https://pe.linkedin.com/in/jomira-paitán-jp
