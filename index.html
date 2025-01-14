@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge AluraGeek</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header class="cabecera">
+        <div class="logo">
+            <img src="assets/Logo.svg" alt="logo AluraGeek">
+
+        </div>
+    </header>
+
+    <!-- Main -->
+    <main class="main">
+        <!-- Sección de productos -->
+        <section class="productos">
+            <h1 class="productos-titulo">MIS PRODUCTOS:</h1>
+            <div class="producto-lista">
+                <!-- Aquí se renderizan dinámicamente los productos -->
+            </div>
+            <p class="no-productos">No se han agregado productos</p>
+        </section>
+
+        <!-- Formulario -->
+        <section class="form-section">
+            <h1 class="form-titulo">AGREGAR <br>PRODUCTO:</h1>
+            <form id="producto-form">
+                <input type="text" id="producto-nombre" name="producto" placeholder="nombre..." data-producto=""
+                    minlength="4" required="" maxlength="35">
+                <input type="numero" id="producto-precio" name="precio" placeholder="precio..." data-precio=""
+                    minlength="4" required="">
+                <input type="url" id="producto-imagen" name="imagen" placeholder="imagen..." data-imagen=""
+                    minlength="4" required="">
+
+                <div class="buttons">
+                    <button class="btn-enviar" type="submit">Enviar</button>
+                    <button class="btn-limpiar" type="reset">Limpiar</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="logo">
+            <img src="assets/Logo.svg" alt="logo AluraGeek">
+
+        </div>
+        <p class="footer__autor">
+            DESARROLLADO POR JOMIRA ISABEL PAITAN PEÑA
+        </p>
+        <p class="footer__empresa">
+            ALURA LATAM - 2025
+        </p>
+    </footer>
+
+    <!-- JavaScript -->
+    <script type="module" src="script.js"></script>
+</body>
+
+</html>

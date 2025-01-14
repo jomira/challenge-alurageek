@@ -1,0 +1,76 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Tanjiro Kamado",
+      "precio": 40,
+      "imagen": "assets/tanjiro.PNG"
+    },
+    {
+      "id": "2",
+      "nombre": "Nezuko Kamado",
+      "precio": 40,
+      "imagen": "assets/nezuko.PNG"
+    },
+    {
+      "id": "3",
+      "nombre": "Inosuke Hashibira",
+      "precio": 34,
+      "imagen": "assets/inosuke.PNG"
+    },
+    {
+      "id": "4",
+      "nombre": "Zenitsu Agatsuma",
+      "precio": 34,
+      "imagen": "assets/zenitsu.PNG"
+    },
+    {
+      "id": "5",
+      "nombre": "Tokito Muichiro",
+      "precio": 34,
+      "imagen": "assets/muichiro.PNG"
+    },
+    {
+      "id": "6",
+      "nombre": "Giyuu Tomioka",
+      "precio": 34,
+      "imagen": "assets/tomioka.PNG"
+    },
+    {
+      "id": "7",
+      "nombre": "Obanai Iguro",
+      "precio": 34,
+      "imagen": "assets/obanai.PNG"
+    },
+    {
+      "id": "8",
+      "nombre": "Sanemi Shinazugawa",
+      "precio": 34,
+      "imagen": "assets/sanemi.PNG"
+    },
+    {
+      "id": "9",
+      "nombre": "Shinobu Kochō",
+      "precio": 34,
+      "imagen": "assets/shinobu.PNG"
+    },
+    {
+      "id": "10",
+      "nombre": "Kyojuro Rengoku",
+      "precio": 34,
+      "imagen": "assets/rengoku.PNG"
+    },
+    {
+      "id": "11",
+      "nombre": "Gyomei Himejima",
+      "precio": 34,
+      "imagen": "assets/himejima.PNG"
+    },
+    {
+      "id": "12",
+      "nombre": "Uzui Tengen",
+      "precio": 34,
+      "imagen": "assets/tengen.PNG"
+    }
+  ]
+}
