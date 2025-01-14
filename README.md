@@ -37,7 +37,7 @@ Este es un proyecto de frontend desarrollado para el desafío de AluraGeek. La p
 ├── 📄 index.html       # Página principal
 └── 📄 README.md        # Documentación del proyecto
 ---
-
+---
 ## Autor
 ### Jomira Paitan.
 ### Linkedin: https://pe.linkedin.com/in/jomira-paitán-jp
