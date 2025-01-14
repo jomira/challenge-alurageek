@@ -1,6 +1,6 @@
----
-
 # **Challenge AluraGeek 🕹️**
+
+![Challenge-AluraGeek](https://github.com/user-attachments/assets/2e0434bd-7359-49fa-ad3b-ca90e4498c2e)
 
 Este es un proyecto de frontend desarrollado para el desafío de AluraGeek. La página permite a los usuarios agregar productos, ver una lista de productos (con precios e imágenes) y eliminarlos.
 
